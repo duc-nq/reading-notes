@@ -10,4 +10,4 @@
 
 3. 'Be open to feedback and maintain a curious mindset': Actively seek feedback from others and be open to constructive criticism. Remember that growth occurs when we are willing to learn from our mistakes and the experiences of others. Cultivate a curious mindset by asking questions, seeking new perspectives, and exploring new ideas and concepts. This will help you to stay engaged, motivated, and eager to grow.
 
-####Please contact me if you have any question about Growth Mindset [Contact via Github](https://github.com/duc-nq).
+#### Please contact me if you have any question about Growth Mindset [Contact via Github](https://github.com/duc-nq).
