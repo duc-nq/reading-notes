@@ -33,4 +33,3 @@ Hi guys, I'm Duc and I love coding
 - [Class 14 Reading Notes](201/class14.md)
 - [Class 15 Reading Notes](201/class15.md)
 
-#### Please contact me if you have any question about Growth Mindset [Contact via Github](https://github.com/duc-nq).
