@@ -3,7 +3,7 @@
 ## ACL - Growth Mindset
 Ngo Quang Duc
 
-###Growth mindset is the belief that one's abilities, intelligence, and talents can be developed and improved through hard work, dedication, and persistence.
+### Growth mindset is the belief that one's abilities, intelligence, and talents can be developed and improved through hard work, dedication, and persistence.
 
 ***Three reminders to yourself of how to keep yourself in a growth mindset***
 
