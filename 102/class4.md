@@ -38,25 +38,3 @@ When you provide additional information about an HTML element in the form of att
 # What is a semantic element?
 
 A semantic element is an HTML element whose meaning is clearly defined. It provides a context for the information being marked up.
-
-Some key points about semantic elements:
-
-- They clearly define the meaning and purpose of content, rather than just how it is presented. For example, <h1> defines a level one heading, not just large, bold text.
-
-- They make code easier to read and navigate because the meaning is more obvious. This has benefits for both humans and machines.
-
-- They are more accessible as they convey meaning rather than just presentation. Screen readers can interpret semantic markup more accurately.
-
-- They improve SEO because search engines can better understand the content and its hierarchy.
-
-Examples of semantic elements include:
-
-`<h1> to <h6> for headings
-<p> for paragraphs
-<ul> and <ol> for lists
-<form> for [interactive forms]`
-
-Some more abstract semantic elements include:
-
-<div> and <span> which provide no inherent meaning, only layout/formatting. They should be used sparingly.
-<header>, <footer>, <section>, <article>, <aside> which provide enhanced document outline meaning.
