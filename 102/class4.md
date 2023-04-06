@@ -14,16 +14,16 @@
 
 An HTML element consists of 3 main parts:
 
-- Opening tag: <element>
-The opening tag contains the element name surrounded by angle brackets. For example, <h1> is the opening tag for a heading element.
+- Opening tag: `<element>`
+The opening tag contains the element name surrounded by angle brackets. For example, `<h1>` is the opening tag for a heading element.
 
-- Content: Some elements contain content between their opening and closing tags. For example, a paragraph element <p> contains paragraph text content. Not all elements contain content though.
+- Content: Some elements contain content between their opening and closing tags. For example, a paragraph element `<p>` contains paragraph text content. Not all elements contain content though.
 
-- Closing tag: </element>
-The closing tag contains a forward slash followed by the element name surrounded by angle brackets. For example, </h1> is the closing tag for a heading element.
+- Closing tag: `</element>`
+The closing tag contains a forward slash followed by the element name surrounded by angle brackets. For example, `</h1>` is the closing tag for a heading element.
 
 A basic HTML element looks like this:
-<element>content</element>
+`<element>content</element>`
 
 So the 3 main parts of an HTML element are:
 
