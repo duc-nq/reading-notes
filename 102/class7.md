@@ -10,12 +10,12 @@ They can be stored in variables, passed as arguments to other functions, and ret
 They help avoid writing repetitive code by encapsulating reusable logic.
 
 A simple JavaScript function looks like this:
-`function sayHello() {`
-`console.log('Hello!');`
-`}`
+> function sayHello() {
+> console.log('Hello!');
+> }
 # What does it mean to `invoke` - or `call` - a function?
 Invoking and calling a function essentially mean the same thing - executing the function.
 # What are the parenthesis `()` for when you define a function?
 ***The parentheses () after a function definition have two purposes:***
-They group the function parameters (inputs) together.
-They allow you to specify what data type the function returns.
+- They group the function parameters (inputs) together.
+- They allow you to specify what data type the function returns.
