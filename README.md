@@ -13,7 +13,7 @@ Hi guys, I'm Duc and I love coding
 - [Class 5 Design web pages with CSS](102/class5.md)
 - [Class 6 Dynamic web pages with JavaScript](102/class6.md)
 - [Class 7 Programming with JavaScript](102/class7.md)
-- [Class 8 Operators and Loops](102/class8.md)
+- [Class 8 Operators and Loops](102/class8.md) 
 
 ### 201 Notes
 
